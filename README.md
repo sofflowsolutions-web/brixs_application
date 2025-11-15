@@ -133,8 +133,8 @@ The app supports internationalization. To add a new language:
 
 ### Common Issues
 
-1. **WebView not loading**: Check internet connectivity and ensure the website URL is accessible
-2. **Google Sign-In not working**: Verify Google Sign-In configuration and ensure proper OAuth setup
+1. **WebView loading**: Check internet connectivity and ensure the website URL is accessible
+2. **Google Sign-In  working**: Verify Google Sign-In configuration and ensure proper OAuth setup
 3. **Build failures**: Ensure all dependencies are installed with `flutter pub get`
 
 ### Debug Mode
