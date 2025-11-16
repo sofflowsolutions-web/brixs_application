@@ -150,7 +150,7 @@ This project is private and not intended for public distribution.
 
 ## Author
 
-**Manish Sharma**
+**SFS**
 
 ## Version
 
